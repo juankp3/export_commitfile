@@ -15,7 +15,8 @@ require_once dirname(__FILE__) . '/test/PHPGit_RepoTestHelper.php';
 	
 
 
-	exec("git log",$output);
+	//exec("git log",$output);
+	exec("git log --name-status",$output);
 
 	echo "<pre>";
 	var_dump($output);
