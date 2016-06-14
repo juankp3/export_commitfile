@@ -38,8 +38,11 @@ require_once dirname(__FILE__) . '/test/PHPGit_RepoTestHelper.php';
     else if(strpos($line, 'Date')===0){
     $commit['date']   = substr($line, strlen('Date:'));
     }
-    else{       
-    $commit['message']  .= $line;
+    else{
+    	if(!empty($line)){
+    		$commit['message'][]= trim($line);	
+    	}
+   
     }
 }
 
