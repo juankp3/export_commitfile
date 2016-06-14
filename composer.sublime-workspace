@@ -1,0 +1,635 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"address",
+				"addresses"
+			],
+			[
+				"for",
+				"format"
+			],
+			[
+				"id_relationship_",
+				"id_relationship_invoice"
+			],
+			[
+				"type",
+				"typeAddress"
+			],
+			[
+				"fad",
+				"fadeOut	.fadeOut()"
+			],
+			[
+				"fade",
+				"fadeIn	.fadeIn()"
+			],
+			[
+				"remove",
+				"removeClass	.removeClass()"
+			],
+			[
+				"edia",
+				"editando"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"contr",
+				"controller"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"json",
+				"jsonData"
+			],
+			[
+				"mai",
+				"mailgun"
+			],
+			[
+				"mail",
+				"mailgun-js"
+			],
+			[
+				"Mal",
+				"MailGun"
+			],
+			[
+				"ps",
+				"psCustomer"
+			],
+			[
+				"PS",
+				"psRecipient"
+			],
+			[
+				"pro",
+				"product"
+			],
+			[
+				"produ",
+				"products"
+			],
+			[
+				"exl",
+				"explode"
+			],
+			[
+				"is_n",
+				"is_numeric"
+			],
+			[
+				"echo",
+				"echo"
+			],
+			[
+				"fun",
+				"fun	function …"
+			],
+			[
+				"jq",
+				"jQuery.ajax	jQuery.ajax"
+			],
+			[
+				"r",
+				"ready	document.ready - $(function(){})"
+			],
+			[
+				"rea",
+				"removeAttr	.removeAttr()"
+			],
+			[
+				"fa",
+				"fadeIn	.fadeIn()"
+			],
+			[
+				"aj",
+				"ajaxComplete	.ajaxComplete()"
+			],
+			[
+				"pas",
+				"passportLocal"
+			],
+			[
+				"e",
+				"editar"
+			],
+			[
+				"re",
+				"registros"
+			],
+			[
+				"regis",
+				"registro"
+			],
+			[
+				"co",
+				"controlador"
+			],
+			[
+				"c",
+				"c_contrasena"
+			],
+			[
+				"cone",
+				"conexion"
+			],
+			[
+				"a",
+				"action	Attr"
+			],
+			[
+				"f",
+				"frmInsertar"
+			],
+			[
+				"mod",
+				"modelo"
+			],
+			[
+				"con",
+				"conn"
+			],
+			[
+				"cooki",
+				"cookieParser"
+			],
+			[
+				"ar",
+				"archivoEnviar"
+			],
+			[
+				"ruta",
+				"rutaReq"
+			],
+			[
+				"t",
+				"Titulo"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 267.0,
+		"last_filter": "intall",
+		"selected_items":
+		[
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"js",
+				"Snippet: $.ajaxSend()"
+			],
+			[
+				"RegReplace ",
+				"Preferences: Reg Replace Commands – Default"
+			],
+			[
+				"RegReplace",
+				"Reg Replace: Clear Highlights"
+			],
+			[
+				"js co",
+				"Snippet: jQuery.isEmptyObject"
+			],
+			[
+				"Install Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 656.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/kuga/Downloads/2cd399563ea7f374_expoalimentariaprueba_leads_20160522-20160523.csv",
+		"/Users/kuga/Projects/smartec/coolbox/modules/wscoolbox/wscoolbox.php",
+		"/Applications/Xcode.app/Contents/Developer/Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS.sdk/usr/include/Availability.h",
+		"/Users/kuga/Projects/kuga/nodejs/NodeJS_practicas/clase08/01-servicios/api/models/Usuarios.js",
+		"/Users/kuga/Projects/kuga/nodejs/NodeJS_practicas/clase08/01-servicios/views/formEditar.ejs",
+		"/Users/kuga/Projects/kuga/nodejs/NodeJS_practicas/clase08/01-servicios/views/formListar.ejs",
+		"/Users/kuga/Projects/kuga/nodejs/NodeJS_practicas/clase08/01-servicios/views/formInsertar.ejs",
+		"/Users/kuga/Projects/kuga/nodejs/NodeJS_practicas/clase08/01-servicios/views/layout.ejs",
+		"/Users/kuga/Projects/kuga/nodejs/NodeJS_practicas/clase08/01-servicios/config/acciones.js",
+		"/Users/kuga/Projects/kuga/nodejs/NodeJS_practicas/clase08/01-servicios/api/services/ServicioLog.js",
+		"/Users/kuga/Projects/kuga/nodejs/NodeJS_practicas/clase08/01-servicios/api/models/Log.js",
+		"/Users/kuga/Projects/kuga/nodejs/NodeJS_practicas/clase08/01-servicios/config/models.js",
+		"/Users/kuga/Projects/kuga/nodejs/NodeJS_practicas/clase08/01-servicios/config/routes.js",
+		"/Users/kuga/Projects/kuga/nodejs/NodeJS_practicas/clase08/01-servicios/config/connections.js",
+		"/Users/kuga/Projects/kuga/nodejs/NodeJS_practicas/clase08/01-servicios/config/tablas.js",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/README.md",
+		"/Users/kuga/Projects/kuga/nodejs/NodeJS_practicas/Clases07/01-angular/bower_components/js/angular.js",
+		"/Users/kuga/Projects/kuga/nodejs/NodeJS_practicas/Clases07/01-angular/bower_components/index.html",
+		"/Users/kuga/Projects/kuga/nodejs/NodeJS_practicas/Clases07/01-angular/bower_components/angular/index.html",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/controllers/front/AddressesController.php",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/classes/Gender.php",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/controllers/front/AuthController.php",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/themes/rosatel-bootstrap/identity.tpl",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/modules/wswebrosatel/importData/Classes/Address.php",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/classes/Address.php",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/modules/wswebrosatel/sql/v1/update_customer.sql",
+		"/Users/kuga/Projects/smartec/blog/getOrder.php",
+		"/Users/kuga/Projects/smartec/blog/coolbox.php",
+		"/Users/kuga/Downloads/pwd.php",
+		"/Users/kuga/Projects/smartec/blog/getOrder2.php",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/modules/wswebrosatel/deploy/cjFullOrder.php",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/modules/wswebrosatel/deploy/cjCustomerEdit.php",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/modules/wswebrosatel/models/psRecipient.php",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/modules/wswebrosatel/models/psOrder.php",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/modules/wswebrosatel/ws/config.grameco.php",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/modules/wswebrosatel/ws/wsCustomer.php",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/modules/wswebrosatel/models/psProduct.php",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/modules/wswebrosatel/models/psCustomer.php",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/controllers/front/OrderOpcController.php",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/classes/AddressFormat.php",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/modules/wswebrosatel/sql/v2/update_address.sql",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/modules/wswebrosatel/sql/v1/update_address.sql",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/modules/wswebrosatel/ajax-valid-stock.php",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/modules/wswebrosatel/js/payment.js",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/modules/payvisanet/save-order.php",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/modules/wswebrosatel/wswebrosatel.php",
+		"/Users/kuga/Projects/smartec/blog/htaccess",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/modules/etdinersclub/views/templates/hook/displayAvailableStock.tpl",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/modules/etamex/etamex.php",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/modules/etamex/views/templates/hook/displayAvailableStock.tpl",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/modules/etamex/views/css/etamex.css",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/modules/etvisaco/etvisaco.php",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/modules/etvisaco/views/templates/hook/displayAvailableStock.tpl",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/modules/payvisanet/views/templates/hook/displayAvailableStock.tpl",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/modules/etdinersclub/etdinersclub.php",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/modules/etdinersclub/views/css/etdinersclub.css",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/modules/etvisaco/views/templates/hook/payment.tpl",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/modules/etvisaco/css/etvisaco.css",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/modules/etvisaco/views/css/etvisaco.css",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/modules/etvisaco/views/css/back.css",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/modules/etamex/views/templates/hook/payment.tpl",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/modules/payvisanet/css/payvisanet.css",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/themes/rosatel-bootstrap/header.tpl",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/classes/Customer.php",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/modules/wswebrosatel/pwd.php",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/modules/wswebrosatel/views/templates/hook/header.tpl",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/config/rosatel.config.inc.php",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/config/settings.inc.php",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/config/defines.inc.php",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/modules/etdinersclub/views/templates/hook/payment.tpl",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/modules/payvisanet/validation.php",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/modules/payvisanet/payvisanet.php",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/modules/wswebrosatel/js/modal.js",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/modules/wswebrosatel/ws/wsProduct.php",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/modules/wswebrosatel/deploy/cjProduct.php",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/modules/payvisanet/js/payvisanet-v2.js",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/themes/rosatel-bootstrap/img/order-step-a.png",
+		"/Users/kuga/Projects/kuga/nodejs/NodeJS_practicas/Clase02/comandos.txt",
+		"/Users/kuga/Projects/kuga/nodejs/NodeJS_practicas/Clase06/05-mailgun/config/blueprints.js",
+		"/Users/kuga/Projects/kuga/nodejs/NodeJS_practicas/Clase06/05-mailgun/config/routes.js",
+		"/Users/kuga/Projects/kuga/nodejs/NodeJS_practicas/Clase06/05-mailgun/config/credenciales.js",
+		"/Users/kuga/Projects/kuga/nodejs/NodeJS_practicas/Clase06/05-mailgun/api/controllers/CorreosController.js",
+		"/Users/kuga/Projects/kuga/nodejs/NodeJS_practicas/Clase06/04-alacen/api/controllers/ProductosController.js",
+		"/Users/kuga/Projects/kuga/nodejs/NodeJS_practicas/Clase06/04-alacen/config/routes.js",
+		"/Users/kuga/Projects/kuga/nodejs/NodeJS_practicas/Clase06/04-alacen/api/models/Movimientos.js",
+		"/Users/kuga/Projects/kuga/nodejs/NodeJS_practicas/Clase06/04-alacen/api/models/Productos.js",
+		"/Users/kuga/Projects/kuga/nodejs/NodeJS_practicas/Clase06/04-alacen/api/controllers/MovimientosController.js",
+		"/Users/kuga/Projects/kuga/nodejs/NodeJS_practicas/Clase06/04-alacen/config/models.js",
+		"/Users/kuga/Projects/kuga/nodejs/NodeJS_practicas/Clase06/04-alacen/config/connections.js",
+		"/Users/kuga/Projects/kuga/nodejs/NodeJS_practicas/Clase06/04-alacen/views/ProductosListado.ejs",
+		"/Users/kuga/Projects/kuga/nodejs/NodeJS_practicas/Clase06/03-asociacion-uno-a-uno/config/connections.js",
+		"/Users/kuga/Projects/kuga/nodejs/NodeJS_practicas/Clase06/03-asociacion-uno-a-uno/config/models.js",
+		"/Users/kuga/Projects/kuga/nodejs/NodeJS_practicas/Clase06/04-alacen/views/layout.ejs",
+		"/Users/kuga/Projects/kuga/nodejs/NodeJS_practicas/Clase06/01-asociacion-un-sentido/config/connections.js",
+		"/Users/kuga/Projects/kuga/nodejs/NodeJS_practicas/Clase06/02-asociacion-muchas-a-muchos/config/connections.js",
+		"/Users/kuga/Projects/kuga/nodejs/NodeJS_practicas/Clase06/03-asociacion-uno-a-uno/api/models/Mascotas.js",
+		"/Users/kuga/Projects/kuga/nodejs/NodeJS_practicas/Clase06/03-asociacion-uno-a-uno/api/models/Duenos.js",
+		"/Users/kuga/Projects/kuga/nodejs/NodeJS_practicas/Clase06/01-asociacion-un-sentido/api/models/Duenos.js",
+		"/Users/kuga/Projects/kuga/nodejs/NodeJS_practicas/Clase06/02-asociacion-muchas-a-muchos/api/models/Mascotas.js",
+		"/Users/kuga/Projects/kuga/nodejs/NodeJS_practicas/Clase06/02-asociacion-muchas-a-muchos/api/models/Duenos.js",
+		"/Users/kuga/Projects/kuga/nodejs/NodeJS_practicas/Clase06/01-asociacion-un-sentido/api/models/Mascotas.js",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/modules/wswebrosatel/deploy/cjOrder.php",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/modules/wswebrosatel/deploy/cjCustomerOrder.php",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/modules/wswebrosatel/ws/wsOrder.php",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/modules/wswebrosatel/ws/wsRecipient.php",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/modules/wswebrosatel/deploy/cjCustomerNew.php",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/modules/wswebrosatel/models/rosatel.php",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/config/config.inc.php",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/modules/wswebrosatel/deploy/cjRecipientsCRUD.php",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/modules/wswebrosatel/lib/wsRosatel.php",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/modules/wswebrosatel/deploy/cjOrder-bk.php",
+		"/Users/kuga/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/kuga/Library/Application Support/Sublime Text 3/Packages/DocBlockr/README.md",
+		"/Users/kuga/Projects/smartec/rosatel-prestashop/modules/wswebrosatel/js/select-state.js",
+		"/Users/kuga/Library/Application Support/Sublime Text 3/Packages/php-snippets/README.md",
+		"/Users/kuga/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/Users/kuga/Library/Application Support/Sublime Text 3/Packages/RegReplace/Default.sublime-commands",
+		"/Users/kuga/Library/Application Support/Sublime Text 3/Packages/DocBlockr/Base File.sublime-settings",
+		"/Users/kuga/Library/Application Support/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/Users/kuga/Projects/kuga/nodejs/NodeJS_practicas/Clase02/03-mysql/connexiones/connMysql.js",
+		"/Users/kuga/Projects/kuga/nodejs/NodeJS_practicas/Clase03/04-historias/cone/connMySql.js",
+		"/Users/kuga/Projects/kuga/nodejs/NodeJS_practicas/Clase03/04-historias/controladores/controladorCompanias.js",
+		"/Users/kuga/Projects/kuga/nodejs/NodeJS_practicas/Clase03/04-historias/views/home.ejs",
+		"/Users/kuga/Projects/kuga/nodejs/NodeJS_practicas/Clase03/04-historias/views/listarCompanias.ejs",
+		"/Users/kuga/Projects/kuga/nodejs/NodeJS_practicas/Clase03/04-historias/app.js",
+		"/Users/kuga/Projects/kuga/nodejs/NodeJS_practicas/Clase03/04-historias/routes/auth.js",
+		"/Users/kuga/Downloads/archivos/archivos/User.php",
+		"/Users/kuga/Projects/kuga/nodejs/NodeJS_practicas/Clase03/04-historias/views/listarCompanias.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/kuga/Projects/smartec/coolbox/themes/pos_greentech4",
+			"/Users/kuga/Projects/smartec/rosatel-prestashop",
+			"/Users/kuga/Projects/smartec/rosatel-prestashop/controllers/front",
+			"/Users/kuga/Projects/smartec/rosatel-prestashop",
+			"/Users/kuga/Projects/smartec/rosatel-prestashop/themes/rosatel-bootstrap",
+			"/Users/kuga/Projects/smartec/rosatel-prestashop",
+			"/Users/kuga/Projects/smartec/rosatel-prestashop/controllers/front",
+			"/Users/kuga/Projects/smartec/rosatel-prestashop",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"commit",
+			"separateAllStockOrder",
+			"top-menu-information",
+			"blockuserinfo",
+			"existsRecipients",
+			"updatetCustomerIdsRosatel",
+			"getCustomerByIdRosatel",
+			"updatetCustomerIdsRosatel",
+			"formatCustomer",
+			"existsCustomer",
+			"formatCustomer",
+			"existsCustomer",
+			"existsCustomerByDocument",
+			"setCustomer",
+			"getCustomerByIdCustomer",
+			"SELECT DATE_FORMAT",
+			"VerificaExistenciaCliente_NC",
+			"$reference",
+			"formatCustomer",
+			"setCustomer",
+			"formatCustomer",
+			"$list",
+			"formatRecipient",
+			"Graba Destinatario",
+			"id_relationship",
+			"hola",
+			"<<<",
+			"ActionAddAddress",
+			"ho",
+			"hoo",
+			"hook",
+			"id_relationship",
+			"marty.post.rosatel_type_address",
+			"'address",
+			"_address",
+			"'address'",
+			"address'",
+			"address",
+			"relationship_list",
+			"gender",
+			"$address->add()",
+			"$address->save()",
+			"id_relationship",
+			"assignTypeAddress",
+			"id_relationship",
+			"ordered_adr_fields",
+			"genders",
+			"Parentesco",
+			"id_address_delivery",
+			"is_address_customer",
+			"id_rosatel_address_address",
+			"existsCustomerByDocument",
+			"formatCustomer",
+			"saveCustomer",
+			"getCustomerByRosatelId",
+			"TarjetaMensaje",
+			"separateStock",
+			"Graba Destinatario",
+			"validate",
+			"_ENABLE_WEB_SERVICE_",
+			"Debes de actualizar tus datos personales",
+			"message",
+			"                        \n",
+			"getLoginOldWeb",
+			"getLogin",
+			"getLoginMergeOldWeb",
+			"getLoginOldWeb",
+			"getPasswordOldWeb",
+			"_ROSATEL_OLD_URL_",
+			"loadingVisaNet",
+			"secure_key",
+			"showLightbox",
+			"btnLogoPayment",
+			"		\n",
+			"errorProducts",
+			"getProduct",
+			"openModalPayment",
+			">>>",
+			"modalConfirm",
+			">>>>>>>",
+			"ajax-valid-stock",
+			"setCustomer",
+			"formatRecipient",
+			"**/\n",
+			"getNewAllAddress",
+			"updatetCustomerIdsRosatel",
+			"saveCustomer",
+			"addOrderDetailTemporary",
+			"setIdRosatelOrder",
+			"setIdRosatelOrderTemporary",
+			");\n",
+			"addOrder",
+			"setDetailOrder",
+			");\n",
+			"addOrder",
+			"setIdRosatelOrder",
+			"getShippingDate",
+			"addOrder",
+			"addOrderDetailTemporary",
+			"()",
+			"setIdRosatelOrder",
+			"']);\n",
+			"getShippingDate",
+			"ExchangeRate",
+			"getOrderDetailById",
+			"getProduct",
+			"()",
+			"17:00:00",
+			"11:00:00",
+			"18:00:00",
+			"12:00:00",
+			"23:59:59",
+			"19:00:00",
+			"00:00:00",
+			"13:00:00",
+			"events"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'17:00:00'",
+			"'11:00:00'",
+			"'18:00:00'",
+			"'12:00:00'",
+			"'23:59:59'",
+			"'19:00:00'",
+			"'00:00:00'",
+			"'13:00:00'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "composer.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 224.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
